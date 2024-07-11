@@ -11,6 +11,6 @@ You must have PyGame library installed. To install it you have to run:<br>
 `python -m pip install pygame`<br><br>
 If one doesn't work for you, try another one from those four.<br><br><br>
 >To clone the game, run:<br>
-`git clone https://github.com/oresticela/spaceship-war.git
-cd spaceship-war
-python3 main.py`
+`git clone https://github.com/oresticela/spaceship-war.git`<br>
+`cd spaceship-war`<br>
+`python3 main.py`
